@@ -1,0 +1,28 @@
+/* apply style to all div tags */
+
+/* div{
+    background-color: aqua;
+    text-align: center;
+} */
+
+.classTwo{
+
+    background-color: aqua;
+    text-align: center;
+}
+
+/* reference by class */
+
+/* .divTwo{
+
+    background-color: aqua;
+    text-align: center;
+} */
+
+/* reference by ID */
+
+/* #divOneID{
+
+    background-color: aqua;
+    text-align: center;
+} */
